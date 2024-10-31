@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Multi-level menu for Ecwid\n"
+"POT-Creation-Date: 2020-09-13 14:53+0400\n"
+"PO-Revision-Date: 2020-09-13 14:53+0400\n"
+"Last-Translator: \n"
+"Language-Team: https://kinvasoft.com/\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lang\n"
+
+#: kinvasoft-multi-level-menu.php:52
+msgid "Menu layout:"
+msgstr "Вид меню:"
+
+#: kinvasoft-multi-level-menu.php:57
+msgid "Horizontal"
+msgstr "Горизонтальное"
+
+#: kinvasoft-multi-level-menu.php:58
+msgid "Vertical"
+msgstr "Вертикальное"
+
+#: kinvasoft-multi-level-menu.php:191
+#, php-format
+msgid "More information about %s"
+msgstr "Больше информации о %s"
+
+#: kinvasoft-multi-level-menu.php:193
+msgid "View details"
+msgstr "Посмотреть детали"
+
+#: kinvasoft-multi-level-menu.php:273 kinvasoft-multi-level-menu.php:329
+#: kinvasoft-multi-level-menu.php:361 kinvasoft-multi-level-menu.php:382
+#: kinvasoft-multi-level-menu.php:407
+msgid "Multi-level menu for Ecwid"
+msgstr "Много-уровневое меню для Ecwid"
+
+#: kinvasoft-multi-level-menu.php:286
+msgid "Settings saved successfully!"
+msgstr "Параметры успешно сохранены!"
+
+#: kinvasoft-multi-level-menu.php:296
+msgid ""
+"To configure the Multi-level menu, you need to open the menu settings page "
+"<b>Menu widget > Widget HTML code</b>. Then click on the <b>Copy token</b> "
+"button. See the example in the screenshot below."
+msgstr ""
+"Чтобы настроить многоуровневое меню, необходимо перейти к настройкам меню в "
+"<b>Menu widget > Widget HTML code</b>. Затем нажать кнопку <b>Copy token</"
+"b>. Смотрите пример на скриншоте ниже."
+
+#: kinvasoft-multi-level-menu.php:302
+msgid ""
+"The copied code must be added to the \"<b>Token</b>\" field below. Finally "
+"click on the \"<b>Save</b>\" button to save changes."
+msgstr ""
+"Скопированный код необходимо добавить в поле \"<b>Токен</b>\" ниже и нажать "
+"кнопку \"<b>Сохранить</b>\"."
+
+#: kinvasoft-multi-level-menu.php:308
+msgid "Token"
+msgstr "Токен"
+
+#: kinvasoft-multi-level-menu.php:313
+msgid "Save"
+msgstr "Сохранить"
+
+#: kinvasoft-multi-level-menu.php:333 kinvasoft-multi-level-menu.php:386
+msgid ""
+"The Multi-level menu for Ecwid plugin works in conjunction with Ecwid. For "
+"its work you need:<br/>1. Register an account with Ecwid (<a href=\"http://"
+"open.ecwid.com/hfZSF\">ecwid.com</a>).<br/>2. Install the Ecwid plugin in "
+"WordPress (<a href=\"plugin-install.php?tab=plugin-information&plugin=ecwid-"
+"shopping-cart\">link to the plugin</a>).<br/>3. Install the Multi-level menu "
+"application in Ecwid (<a href=\"https://bit.ly/2uJbiCg\">link to the app</"
+"a>).<br/>4. Set up the Multi-level menu for Ecwid plugin in WordPress."
+msgstr ""
+"Плагин Много-уровневое меню для Ecwid работает совместно с Ecwid. Для его "
+"работы вам нужно:<br/>1. Зарегистрировать аккаунт в Ecwid (<a href=\"http://"
+"open.ecwid.com/hfZSF\">ecwid.com</a>).<br/>2. Установите плагин Ecwid в "
+"WordPress (<a href=\"plugin-install.php?tab=plugin-information&plugin=ecwid-"
+"shopping-cart\">ссылка на плагин</a>).<br/>3. Установить приложение Multi-"
+"level menu в Ecwid (<a href=\"https://bit.ly/2uJbiCg\">ссылка на приложение</"
+"a>).<br/>4. Настроить плагин Много-уровневое меню для Ecwid в WordPress."
+
+#: kinvasoft-multi-level-menu.php:338 kinvasoft-multi-level-menu.php:391
+#: kinvasoft-multi-level-menu.php:416
+msgid "Proceed with registration at Ecwid"
+msgstr "Перейти к регистрации в Ecwid"
+
+#: kinvasoft-multi-level-menu.php:364
+msgid "Redirecting to app configuration page..."
+msgstr "Перенаправляем на страницу настройки приложения..."
+
+#: kinvasoft-multi-level-menu.php:411
+msgid ""
+"The Multi-level menu for Ecwid plugin works in conjunction with Ecwid. For "
+"its work you need:<br/><strike>1. Register an account with Ecwid (<a href="
+"\"http://open.ecwid.com/hfZSF\">ecwid.com</a>).</strike><br/><strike>2. "
+"Install the Ecwid plugin in WordPress (<a href=\"plugin-install.php?"
+"tab=plugin-information&plugin=ecwid-shopping-cart\">link to the plugin</a>)."
+"</strike><br/>3. Install the Multi-level menu application in Ecwid (<a href="
+"\"https://bit.ly/2uJbiCg\">link to the app</a>).<br/>4. Set up the Multi-"
+"level menu for Ecwid plugin in WordPress."
+msgstr ""
+"Плагин Много-уровневое меню для Ecwid работает совместно с Ecwid. Для его "
+"работы вам нужно:<br/><strike>1. Зарегистрировать аккаунт в Ecwid (<a href="
+"\"http://open.ecwid.com/hfZSF\">ecwid.com</a>).</strike><br/><strike>2. "
+"Установите плагин Ecwid в WordPress (<a href=\"plugin-install.php?tab=plugin-"
+"information&plugin=ecwid-shopping-cart\">ссылка на плагин</a>).</strike><br/"
+">3. Установить приложение Multi-level menu в Ecwid (<a href=\"https://bit."
+"ly/2uJbiCg\">ссылка на приложение</a>).<br/>4. Настроить плагин Много-"
+"уровневое меню для Ecwid в WordPress."
+
+#: kinvasoft-multi-level-menu.php:438
+msgid "Multi-level menu"
+msgstr "Много-уровневое меню"
+
+#: kinvasoft-multi-level-menu.php:446
+msgid "Settings"
+msgstr "Настройки"
+
+#: kinvasoft-multi-level-menu.php:462
+msgid "You can Add / Edit menu items on the application options"
+msgstr "Вы можете Добавить / Изменить пункты меню в приложении"
+
+#: kinvasoft-multi-level-menu.php:462
+msgid "configuration page"
+msgstr "на странице настроек"
